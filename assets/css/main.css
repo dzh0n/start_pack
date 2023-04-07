@@ -19,6 +19,7 @@ html, body {
 body {
     font-family: var(--main-font);
     color: var(--main-color);
+    font-weight: 400;
 }
 
 a {
